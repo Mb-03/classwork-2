@@ -9,8 +9,11 @@ body {
   background-color: whitesmoke;
 }
 
+/* aq display flex - it, allign-items -it da justify-contentit gavacentre cardebi 
+   ise rom ert xazze iyvnen */
+
 .big-container {
-  display: flex;
+  display: flex; 
   justify-content: center;
   align-items: center;
   width: 1000px;
@@ -85,6 +88,9 @@ p {
 /* Card 2 animations/style */
 
 
+
+/* aq shevqmeni animacia, romelsac viyeneb meore cardze hoveris dros, rom shevcvalo background-color
+   da amis shemdeg hoveris dros mxolod P texts vucvli ferze rom shav fonze uketesad gamochndes */
 
 @keyframes backgroundAnimation {
   0% {
